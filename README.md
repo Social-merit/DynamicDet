@@ -5,8 +5,8 @@ Implementation of a papar DynamicDet: A Unified Dynamic Architecture for Object 
 
 By: Monye Babatunde
 subject: Computer vision
-Here is a concise:
 
+Here is a concise:
 The paper proposes DynamicDet, a novel dynamic neural network framework for efficient and accurate object detection. The key ideas are:
 
 1) Carefully designed dynamic architecture based on the nature of object detection.
